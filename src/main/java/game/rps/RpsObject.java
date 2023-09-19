@@ -43,7 +43,6 @@ public class RpsObject implements RpsInterface {
 
     public void gameMethod(){
         //Select R-P-S
-        while (true) {
             while (numberOfGamesInt > gamesCounter) {
 
                 gamesCounter++;
@@ -97,10 +96,7 @@ public class RpsObject implements RpsInterface {
                 //Count computer and player score
                 System.out.println("\n" + "Player win " + playerWin + " times");
                 System.out.println("Computer win " + computerWin + " times");
-
             }
-            break;
-        }
     }
 
 

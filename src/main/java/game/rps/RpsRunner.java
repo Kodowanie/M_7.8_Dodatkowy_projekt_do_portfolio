@@ -1,11 +1,11 @@
 package game.rps;
 
 
-//Ask user for name -
-//number of game he wants to play -
-//end of program show score -
-//if you want to finish the game press "y" -
-//if you want to play a new game press "n" -
+//Ask user for name
+//number of game he wants to play
+//end of program show score
+//if you want to finish the game press "y"
+//if you want to play a new game press "n"
 
 //how to construct the project? need to be object oriented
 public class RpsRunner {
